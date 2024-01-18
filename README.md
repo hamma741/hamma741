@@ -34,6 +34,11 @@ I am a senior software student in MedTech. I have actively engaged in various ex
 
 ## Projects
 
+### Pets Door 
+overseeing the implementation of a smart door system and a food/water dispenser. The door system, using dual sensors, ensured secure cat access, while the dispenser, connected to a Raspberry Pi, monitored resource levels and sent notifications. My contributions included code integration, active involvement in application development, and meticulous documentation review, showcasing my proficiency in system integration and coding refinement.
+
+### Game Development
+My primary contributions centered around the report document, ensuring clarity and completeness. Additionally, I actively participated in the design aspect by assisting in the creation of assets. Taking on the responsibilities of a Scrum Master, I facilitated our work process, ensuring effective communication and coordination among team members. Through these roles, I demonstrated my ability to contribute to various facets of the project, combining strong documentation skills, creative input in design, and effective team leadership in an agile development environment.
 ### Certificates
 - Introduction to Cybersecurity Tools & Cyber Attacks (IBM Cybersecurity Analyst)
 - Cybersecurity Roles, Processes & Operating System Security (IBM Cybersecurity Analyst)
