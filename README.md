@@ -1,5 +1,5 @@
 # Hi, I am Mohamed Ben Hammouda! 
-🕔 🕇 
+🕔 
 
 Welcome to my GitHub repository! 🎉 This space is a reflection of my journey as a Software Engineering student with a passion for Cybersecurity and an enthusiasm for continuous learning. Here, you'll find a collection of projects, experiences, and skills that define my professional and academic endeavors. 🎓 
 
