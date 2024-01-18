@@ -108,7 +108,6 @@ Feel free to reach out to me for questions, suggestions, or collaboration opport
 
 ## GitHub Stats 🕣 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamma741&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hamma741&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamma741&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 Thank you for visiting my GitHub! I'm excited to share and learn together. 🎓
