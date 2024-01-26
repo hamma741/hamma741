@@ -1,5 +1,4 @@
-# Hi, I am Mohamed Ben Hammouda! 
-🕔 
+# Hi, I am Mohamed Ben Hammouda!  
 
 Welcome to my GitHub repository! 🎉 This space is a reflection of my journey as a Software Engineering student with a passion for Cybersecurity and an enthusiasm for continuous learning. Here, you'll find a collection of projects, experiences, and skills that define my professional and academic endeavors. 🎓 
 
@@ -30,7 +29,7 @@ I am a senior software student in MedTech. Actively engaged in various extracurr
 - Guided prospective students through the application process. 
 - Maintained effective communication and attention to detail.
 
-## Projects 🕖 
+## Projects 🖈  
 ### Pets Door 
 Overseeing the implementation of a smart door system and a food/water dispenser. The door system, using dual sensors, ensured secure cat access, while the dispenser, connected to a Raspberry Pi, monitored resource levels and sent notifications. My contributions included code integration, active involvement in application development, and meticulous documentation review, showcasing my proficiency in system integration and coding refinement.
 
@@ -60,8 +59,8 @@ My primary contributions centered around the report document, ensuring clarity a
 - Played a pivotal role in managing the organization's finances. 
 - Developed and implemented workshops and hackathons, advancing technical proficiency within the organization.
 
-## Skills 🕖 
-### Hard Skills 🕖 
+## Skills 🖈 
+### Hard Skills  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -77,20 +76,20 @@ My primary contributions centered around the report document, ensuring clarity a
 ![Finance](https://img.shields.io/badge/Finance-%23008000.svg?style=for-the-badge&logo=finance&logoColor=white)
 ![Marketing](https://img.shields.io/badge/Marketing-%230080FF.svg?style=for-the-badge&logo=marketing&logoColor=white)
 
-### Soft Skills 🕄 
+### Soft Skills  
 - Adaptable
 - Problem-solving
 - Active listening
 - Customer service
 - Programming
 
-## Languages 🕄 
+## Languages 🖈 
 - **Native:** Arabic 
 - **Advanced:** English 
 - **Beginner:** Spanish, German 
 - **Intermediate:** French
 
-## Interests 🕣 
+## Interests 🖈  
 - Capture The Flag (CTF) 
 - Reading Books 
 - Chess
@@ -106,7 +105,7 @@ Feel free to reach out to me for questions, suggestions, or collaboration opport
 - **Email:** [mohamed.benhamouda@medtech.tn](mailto:mohamed.benhamouda@medtech.tn) 
 - **Location:** Tunis, Ariana
 
-## GitHub Stats 🕣 
+## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamma741&hide_border=false&include_all_commits=true&count_private=true)
 
 
